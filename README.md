@@ -1,3 +1,7 @@
+
+
+
+
 ### ERC-20 Fungible Token (KaseiCoin)
 A fungible token that is ERC-20 compliant and is being minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
@@ -53,7 +57,7 @@ Complete the following steps:
 
 3. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
 
-![Screen Recording](Resources/Fungible_Token_Recording.mov)
+![Screen Recording](https://user-images.githubusercontent.com/80805346/130533442-4f9c65d2-4aa2-4a02-b037-c837a4c9a4b6.mov)
 
 ![Ganache](Resources/Ganache_Transactions.png)
 
