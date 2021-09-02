@@ -44,3 +44,4 @@ contract KaseiCoinCrowdsaleDeployer {
         token.addMinter(kasei_crowdsale_address);
         token.renounceMinter();
     }
+}
